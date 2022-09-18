@@ -8,4 +8,5 @@ import lombok.Data;
 public class Product extends BaseEntity{
     private String title;// 商品名称
     private Integer price;// 商品价格
+    private String name1;
 }
